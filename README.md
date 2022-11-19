@@ -1,1 +1,1 @@
-Este es el README.md de el repositorio local.
+Notas reckonienses de referencia.
