@@ -78,10 +78,10 @@ theme_mode: dark
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: https://raw.githubusercontent.com/Phern4ndo/phern4ndo.github.io/main/_data/images
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://raw.githubusercontent.com/Phern4ndo/phern4ndo.github.io/main/_data/images/user-anarchivist.jpg
+avatar: user-anarchivist.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
