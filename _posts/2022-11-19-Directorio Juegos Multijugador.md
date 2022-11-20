@@ -5,7 +5,7 @@ categories: [Videojuegos]
 tags: [multijugador]     # TAG names should always be lowercase
 ---
 
-He aqui una lista de juegos a los que dedicar tiempo. El enlace de cada título lleva a la página de Steam del mismo. Si esta no estuviera disponible se enlazara a otro sitio de similar relevancia.
+He aquí una lista de juegos a los que dedicar tiempo. El enlace de cada título lleva a su página. Si esta no estuviera disponible, se enlazara a otro sitio de similar relevancia.
 
 # Shooter
 
